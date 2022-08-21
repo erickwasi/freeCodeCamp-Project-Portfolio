@@ -38,4 +38,3 @@ Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to l
 17. Your #image should have a max-width of 100%.
 18. Your #image should have a height of auto.
 19. Your #image should be centered within its parent.
-20. 
