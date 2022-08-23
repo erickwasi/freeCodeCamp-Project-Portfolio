@@ -1,0 +1,111 @@
+body {
+  font-family: Avenir, sans-serif;
+  font-size: 13px;
+}
+
+#body {
+  background-color: #d3d3d3;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+#header {
+  background-color: grey;
+  padding: 20px;
+  margin: 26px;
+  margin-top: 0;
+  border-radius: 0.5rem;
+  overflow: hidden
+}
+
+#title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  margin: 0;
+}
+
+#subtitle {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+#subheader {
+  text-align: center;
+  margin: 0;
+}
+
+#img-div {
+  text-align: center;
+  padding: 30px;
+  overflow: hidden;
+}
+
+#img-caption {
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+
+img {
+  display: block;
+  overflow: hidden;
+  height: 1000px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+  
+#tribute-info {
+  width: 100%;
+  overflow: hidden;
+}
+
+#tribute-info h2 {
+  text-align: center;
+}
+
+#tribute-info ul {
+  display: block;
+  list-style-type: none;
+  margin: 0 auto 50px auto;          
+  max-width: 550px;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#tribute-info li {
+  margin: 16px 0;
+  font-size: 0.95rem;
+}
+
+#more-info {
+  background-color: grey;
+  padding: 20px;
+  margin: 26px;
+  border-radius: 1.5rem;
+}
+
+#more-info h4 {
+  text-align: center;
+  font-size: 1rem;
+}
+
+#tribute-link {
+  color: black;
+}
+
+#tribute-link:hover {
+  color: white;
+}
+
+#tribute-link:active {
+  color: purple;
+}
